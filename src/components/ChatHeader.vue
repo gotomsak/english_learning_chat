@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div class="header_inner">
-            nyan
+            test
         </div>
     </div>
 </template>
